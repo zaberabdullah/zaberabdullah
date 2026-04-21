@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaber Abdullah</h1>
+<h1 align="center">Hi 👋, This is Zaber Abdullah</h1>
 <h3 align="center">Frontend Developer · React & Next.js enthusiast from Bangladesh 🇧🇩</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Building+cool+UIs+%E2%9A%A1;Open+to+collaborations!" alt="Typing SVG" />
