@@ -1,80 +1,43 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zaber%20Abdullah&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+<!-- Custom Banner with Your Photo -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1B27&height=300&section=header&text=Zaber%20Abdullah&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full%20Stack%20Developer%20from%20Bangladesh&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;MERN+Stack+Enthusiast;React+%26+Next.js+Lover;Self-taught+from+Bangladesh+🇧🇩" alt="Typing SVG" />
-</h3>
-
-<p align="center">
+<!-- Typing Animation -->
+<div align="center">
   <a href="https://github.com/zaberabdullah">
-    <img src="https://komarev.com/ghpvc/?username=zaberabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="zaberabdullah" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Self-taught+MERN+Stack+Developer;Building+with+React+%26+Next.js;Clean+Code+%7C+Clean+UI;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/zaberabdullah?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/zaberabdullah?style=flat&color=0891b2&labelColor=1c1917">
-  </a>
-</p>
+</div>
 
----
+<!-- Badges Row -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaberabdullah&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="zaberabdullah" />
+  <img src="https://img.shields.io/github/followers/zaberabdullah?style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-58A6FF?style=for-the-badge&labelColor=0D1117" alt="focus" />
+</div>
 
-### 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- About Me with Image -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-- 🔭 Currently building **Full Stack apps with MERN + Next.js**
-- 🌱 Learning **Node.js, Express.js & Advanced React Patterns**
-- 💬 Ask me about **React, Next.js, JavaScript, MongoDB**
-- 📫 Reach me: **zaberabdullah120@gmail.com**
-- ⚡ Fun fact: **Clean UI is an art form to me**
-- 🎓 **MBA in Tourism & Hospitality** → **Self-taught Developer**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-301d-49b1-96d1-4f0be80395f2.gif">
 
-<br>
-
----
-
-### 💻 Tech Arsenal
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel,vscode,postman&perline=7" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zaberabdullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zaberabdullah&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberabdullah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/zaberabdullah/zaberabdullah/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-<a href="https://linkedin.com/in/zaber-abdullah" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zaber-abdullah" />
-</a>
-<a href="mailto:zaberabdullah120@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zaberabdullah120@gmail.com" />
-</a>
-<a href="https://fb.com/zaber.abdullah.12" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="zaber.abdullah.12" />
-</a>
-</p>
-
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+```javascript
+const zaber = {
+    pronouns: "he" | "him",
+    location: "Khulna, Bangladesh 🇧🇩",
+    background: "MBA → Self-taught Dev",
+    currentFocus: "Full Stack Development",
+    learning: ["Next.js 14", "Node.js", "MongoDB"],
+    askMeAbout: ["React", "JavaScript", "Tailwind", "REST API"],
+    technologies: {
+        frontEnd: ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+        backEnd: ["Node.js", "Express.js"],
+        styling: ["Tailwind CSS", "DaisyUI"],
+        databases: ["MongoDB"],
+        tools: ["Git", "GitHub", "Vercel", "Postman"]
+    },
+    funFact: "I believe clean UI is an art form ✨"
+};
