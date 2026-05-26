@@ -26,9 +26,10 @@ Currently working with the MERN stack and Next.js to create clean, functional UI
 
 ### GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaberabdullah&show_icons=true&theme=transparent&hide_border=true&text_color=24292f&title_color=24292f&icon_color=58a6ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberabdullah&layout=compact&theme=transparent&hide_border=true&text_color=24292f&title_color=24292f" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaberabdullah&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberabdullah&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="165" />
 </div>
 
 <br>
