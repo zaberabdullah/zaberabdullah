@@ -1,49 +1,52 @@
-<div align="center">
-  <h1>Zaber Abdullah</h1>
-  <p>Junior Full Stack Developer · Bangladesh 🇧🇩</p>
-  
-  <a href="https://github.com/zaberabdullah">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Building+with+React+%26+Next.js;MERN+Stack+Developer;Self-taught+%7C+Problem+Solver" alt="Typing SVG" />
-  </a>
-</div>
-
-<br>
-
-I'm a self-taught developer focused on building full-stack web applications. 
-Currently working with the MERN stack and Next.js to create clean, functional UIs.
-
-**Background:** MBA in Tourism & Hospitality Management → Transitioned to tech through hands-on projects.
-
-<br>
-
-### Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel&perline=6" />
+<h1 align="center">Hi 👋, This is Zaber Abdullah</h1>
+<h3 align="center">Junior Full Stack Developer · MERN Stack enthusiast from Bangladesh 🇧🇩</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Next.js+%7C+Node.js;Building+with+MERN+Stack+%E2%9A%A1;Open+to+collaborations!" alt="Typing SVG" />
 </p>
-
-<br>
-
-### GitHub Stats
-
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaberabdullah&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberabdullah&layout=compact&theme=tokyonight" />
-</p>
-
-<br>
-
-### Get in Touch
-
-<p>
-  <a href="https://linkedin.com/in/zaber-abdullah"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:zaberabdullah120@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zaberabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaberabdullah&label=Profile+Views&color=6e7681&style=flat" alt="zaberabdullah" />
-</div>
+🌱 I'm currently leveling up my **Next.js & Node.js** skills
+
+💬 Ask me about **HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Node.js, MongoDB**
+
+⚡ Fun fact: I believe clean UI is an art form.
+
+🎓 Background: **MBA in Tourism & Hospitality** → Self-taught Developer
+
+---
+
+### 🛠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaberabdullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberabdullah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zaber-abdullah/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaberabdullah120@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaberabdullah)
