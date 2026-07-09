@@ -1,10 +1,10 @@
 <p align="center">
-  <!-- Banner Image (Requirement #3.1) -->
+  <!-- Banner Image (Standard Markdown format) -->
   <img src="https://capsule-render.vercel.app/rendering?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, This is Zaber Abdullah</h1>
-<h3 align="center"> Full Stack Developer </h3>
+<h3 align="center">Junior Full Stack Developer · MERN Stack enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Next.js+%7C+Node.js;Building+with+MERN+Stack+%E2%9A%A1;Open+to+collaborations!" alt="Typing SVG" />
@@ -52,8 +52,11 @@ I am a passionate Full Stack Developer focused on building clean, interactive, a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaberabdullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberabdullah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zaberabdullah&show_icons=true&theme=tokyonight" alt="Zaber's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaberabdullah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
