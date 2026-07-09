@@ -25,7 +25,6 @@ from front-end interfaces to the backend logic that powers them.
 ### 🔭 Currently
 
 - 🌱 Leveling up my **Next.js** and **Node.js** skills
-- 🧳 Working on a **tourism website** project
 - 📚 Learning to write cleaner, more scalable backend code
 - 🤝 Open to collaborations and junior dev opportunities
 - ⚡ Fun fact: I believe clean UI is an art form
