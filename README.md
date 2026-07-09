@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=220&section=header&text=Zaber%20Abdullah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%26%20Next.js%20%7C%20Node.js&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://raw.githubusercontent.com/zaberabdullah/zaberabdullah/main/assets/banner.svg" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Next.js+%7C+Node.js;Building+with+JavaScript+%E2%9A%A1;Open+to+collaborations!" alt="Typing SVG" />
-</p>
+<h3 align="center">🚀 Full Stack Developer &nbsp;|&nbsp; React &amp; Next.js &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Open to collaborations!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaberabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -20,9 +18,9 @@ Hospitality background, and taught myself to code because I fell in love with bu
 things people can actually use. I enjoy turning ideas into polished, working products —
 from front-end interfaces to the backend logic that powers them.
 
-- 📍 Location: [Your City, Bangladesh]
+- 📍 Location: Khulna, Bangladesh
 - 📧 Email: zaberabdullah120@gmail.com
-- 📱 Phone: [Your Number]
+- 📱 Phone: 01521251408
 
 ### 🔭 Currently
 
